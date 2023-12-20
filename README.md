@@ -1,2 +1,2 @@
 # BleeheInjector
-Open source and lightweight injector in C#. 
+Open source, lightweight, and minimalistic DLL injector made in C#.
